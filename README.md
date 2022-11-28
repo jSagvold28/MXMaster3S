@@ -41,3 +41,31 @@ Side scroll
 
 JS
 
+
+## App Plan:
+
+**Image Asset ideas:**
+
+-   Mx master 3S 
+
+-   Pale Gray
+-   Black
+-   Logitech logo
+
+This app is going to be for people that want to learn more about the MX Master 3S.
+
+Insperation for the app: 
+Because i want a MX Master 3S
+
+
+Reasearch:
+Google
+Logitech website
+
+
+Views for this app:
+ContentView
+MXMaster3SView
+InfoView
+WhyMXMaster3SView
+
