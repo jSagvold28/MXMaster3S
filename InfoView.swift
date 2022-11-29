@@ -83,3 +83,4 @@ struct InfoView_Previews: PreviewProvider {
         InfoView()
     }
 }
+ 
