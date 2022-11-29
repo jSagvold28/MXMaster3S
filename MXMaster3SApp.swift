@@ -14,8 +14,8 @@ struct ResturantAppApp: App {
             TabView {
                 ContentView()
                     .tabItem {
-                        Image(systemName: "house")
-                        Text("Home")
+                        Image(systemName: "cart")
+                        Text("Buy MX Master 3S")
                     }
                 InfoView()
                     .tabItem {
